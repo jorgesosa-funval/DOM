@@ -29,3 +29,7 @@ div{
     width: 100px;
     justify-content: space-around;
 }
+
+.new_item{
+    margin: 0 auto;
+}
